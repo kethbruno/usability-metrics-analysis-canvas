@@ -59,6 +59,6 @@ Feedback is welcome. I’d love to hear what worked, what didn’t, and what cou
 
 ## License
 
-This project will be shared under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 You are free to use, share, and adapt this template, including for commercial purposes, as long as appropriate credit is given.
